@@ -25,7 +25,7 @@ To run this locally (without docker or minikube) you can do the following:
 
 Congratulations -- you should be able to see the program functioning as expected locally! 
 
-<img width="1462" alt="Capture d’écran 2024-07-13 à 15 22 21" src="https://github.com/user-attachments/assets/fb3acca3-96f1-4742-88c5-7e48f9ab4281">
+<img width="1462" alt="Capture d’écran 2024-07-13 à 15 47 47" src="https://github.com/user-attachments/assets/b4f9c329-5253-4ab2-ab1d-55735e9402e9">
 
 # Thought Stream
 
